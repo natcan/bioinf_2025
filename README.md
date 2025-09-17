@@ -6,12 +6,12 @@ Este repositorio contiene un caso de estudio diseñado para familiarizarse con b
 
 ### 📘 Objetivos de la clase 2
 
-#### 🧬 Análisis del gen BRCA1
-Este repositorio contiene un Google Colab notebook para consultar y analizar la secuencia del gen BRCA1 desde bases de datos genómicas públicas (NCBI).
+#### 🧬 Análisis del gen alpha-amylase (Amy23) de _Solanum tuberosum_ 🥔
+Este repositorio contiene un Google Colab notebook para consultar y analizar la secuencia del gen Amy23 desde bases de datos genómicas públicas (NCBI).
 
 #### 📌 Actividades
 
-Obtener la secuencia del gen BRCA1 usando Biopython.
+Obtener la secuencia del gen Amy23 usando Biopython.
 Guardar y analizar el archivo FASTA.
 Calcular estadísticas básicas: longitud y contenido GC.
 Visualizar el contenido GC con matplotlib.
