@@ -21,3 +21,5 @@ Visualizar el contenido GC con matplotlib.
 Abre el cuaderno en Google Colab.
 Ejecuta las celdas paso a paso.
 Guarda tus resultados y súbelos a tu repositorio en GitHub.
+
+#### 💻 nota: más funciones de Biopython: https://biopython.org/docs/1.76/api/Bio.Entrez.html
